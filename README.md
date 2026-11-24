@@ -1,6 +1,6 @@
 # Hamidreza Shafie
 
-DevOps Manager · DevSecOps & Platform Engineering
+DevOps Manager · DevSecOps, Platform & AI Infrastructure
 
 I work on Kubernetes platforms, GitOps, and the path from commit to production. Cost, reliability, and security belong in that work, not in a report at the end.
 
