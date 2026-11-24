@@ -9,7 +9,7 @@ I work on Kubernetes platforms, GitOps, and the path from commit to production. 
 - Site: [shafie.dev](https://shafie.dev)
 - LinkedIn: [linkedin.com/in/hamidreza-shafie](https://www.linkedin.com/in/hamidreza-shafie/)
 - Telegram: [t.me/Hamidreza_Shafie](https://t.me/Hamidreza_Shafie)
-- Notes: [Cloud cost is an engineering problem](https://shafie.dev/notes/cloud-cost-is-an-engineering-problem/) · [Security before production](https://shafie.dev/notes/security-before-production/)
+- Notes: [shafie.dev/notes](https://shafie.dev/notes/)
 
 I am CKA-certified. Day to day that means Kubernetes, GitOps, and cloud platforms, and making the secure, affordable option the easy one.
 
